@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33006.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOPing", "SOPing\SOPing.csproj", "{52D54BD7-B972-4E18-81CA-8D6C21756A34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOPing.Client", "SOPing.Client\SOPing.Client.csproj", "{68739EF8-DCDB-4B77-9F8E-8EC2F00B2B3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{F80E25B9-C71D-44DD-BA6E-190EE58A8E49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52D54BD7-B972-4E18-81CA-8D6C21756A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D54BD7-B972-4E18-81CA-8D6C21756A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D54BD7-B972-4E18-81CA-8D6C21756A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D54BD7-B972-4E18-81CA-8D6C21756A34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68739EF8-DCDB-4B77-9F8E-8EC2F00B2B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68739EF8-DCDB-4B77-9F8E-8EC2F00B2B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68739EF8-DCDB-4B77-9F8E-8EC2F00B2B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68739EF8-DCDB-4B77-9F8E-8EC2F00B2B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F80E25B9-C71D-44DD-BA6E-190EE58A8E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80E25B9-C71D-44DD-BA6E-190EE58A8E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80E25B9-C71D-44DD-BA6E-190EE58A8E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80E25B9-C71D-44DD-BA6E-190EE58A8E49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4590127F-2310-425B-96AC-EC3D832581F5}
+	EndGlobalSection
+EndGlobal
